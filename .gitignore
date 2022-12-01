@@ -1,0 +1,5 @@
+*.o
+*.a
+tarpSample
+compile_commands.json
+.vscode
